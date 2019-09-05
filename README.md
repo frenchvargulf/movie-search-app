@@ -1,3 +1,34 @@
+# MY-MOVIE-SEARCH-APP
+Movie Search App.
+
+Boostrapped with creare-react-app. 
+
+## Technologies used
+    React 
+    CSS
+    Fetch API
+    Surge
+
+## Functionalities: 
+1. fetching movies from tmdb API
+
+
+## Running the app
+
+To run the application on your machine:
+
+    Clone or download the repository.
+    Open it in your IDE.
+    Run cd movie-search-app and npm i.
+    Then npm start.
+
+Please make sure you have CORS extension installed on your browser, although the headers on the server I wrote should take care of that issue. 
+
+For full compatibilty please use Chrome.
+
+<a href="https://adorable-use.surge.sh">PREVIEW THE APP</a>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
